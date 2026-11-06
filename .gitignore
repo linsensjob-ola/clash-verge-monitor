@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# 构建产物（./build.sh 会重新生成）
+build/
+
+# 编译中间文件
+*.o
+*.swiftmodule
